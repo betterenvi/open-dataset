@@ -6,3 +6,6 @@
 
 http://trec.nist.gov/data/reuters/reuters.html
 
+- 1b lm benchmark
+
+https://github.com/ciprian-chelba/1-billion-word-language-modeling-benchmark
