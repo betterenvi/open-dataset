@@ -52,10 +52,12 @@ http://ahclab.naist.jp/pseudogen
 ###### Stack Overflow
 https://archive.org/details/stackexchange
 
- Related Paper:
+- Related Paper:
 
-    Summarizing Source Code using a Neural Attention Model
-    http://www.aclweb.org/anthology/P16-1195
-    
-    + Summarizing Source Code: Python, SQL, C#
-    https://github.com/sriniiyer/codenn
+Summarizing Source Code using a Neural Attention Model
+
+http://www.aclweb.org/anthology/P16-1195
+
+Summarizing Source Code: Python, SQL, C#
+
+https://github.com/sriniiyer/codenn
