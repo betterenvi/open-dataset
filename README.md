@@ -14,10 +14,24 @@ https://github.com/ciprian-chelba/1-billion-word-language-modeling-benchmark
 
 https://kdd.ics.uci.edu/databases/20newsgroups/20newsgroups.html
 
+- SemEval 2015 Twitter benchmark
+- Microsoft Paraphrase Corpus (MSRP)
+- PTB
+
+https://github.com/yoonkim/lstm-char-cnn/tree/master/data/ptb
+
+- 
+
 #### Question Answering (QA)
 
 - WikiQA
 - QASent
+
+#### Chinese Word Segmentation
+
+- SIGHAN 2005
+
+http://sighan.cs.uchicago.edu/bakeoff2005/
 
 #### Source Code
 
@@ -43,3 +57,5 @@ http://groups.inf.ed.ac.uk/cup/codeattention/
 
 http://ahclab.naist.jp/pseudogen
 
+- Stack Overflow
+https://archive.org/details/stackexchange
